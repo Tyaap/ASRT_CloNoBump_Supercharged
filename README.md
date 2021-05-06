@@ -21,5 +21,5 @@ This is a mod for S&ASRT which can do the following things:
  2. If you already ran the EXE and want to update settings or disable the mod just run the EXE again
 
 
-#### I hope you enjoy the mod! :)
+I hope you enjoy the mod! :)
 #### Tyapp
