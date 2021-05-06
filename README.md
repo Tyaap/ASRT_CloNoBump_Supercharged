@@ -1,2 +1,1 @@
-# ASRT_CloNoBump_Supercharged_Releases
-CloNoBump Supercharged Releases
+# CloNoBump Supercharged
