@@ -5,10 +5,10 @@ A mod for Sonic & All-Stars Racing Transformed
  * Remove collisions between racers
  * Remove AI racers from custom games
  * Allow players to select the same character
- * Set the number of seconds before getting DNF in a race
+ * Change the number of seconds before getting DNF in a race
  * Make all players start the race in the same position
  * Make all vehicles (except your own) invisible for a few seconds after race start
- * Set custom speed/boost/acceleration/handling stats for all characters
+ * Change the speed/boost/acceleration/handling stats for all characters
 
 ## How to install
  1. Open the zip file and extract the CloNoBump Supercharged folder (does not matter where)
