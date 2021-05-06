@@ -1,5 +1,5 @@
 # CloNoBump Supercharged
-A mod for Sonic & All-Stars Racing Transformed
+A mod for Sonic & All-Stars Racing Transformed.
 
 ## What can CloNoBump Supercharged do?
  * Remove collisions between racers
