@@ -1,7 +1,7 @@
 # CloNoBump Supercharged
 A mod for Sonic & All-Stars Racing Transformed
 
-## CloNoBump Supercharged can do the following things
+## What can CloNoBump Supercharged do?
  * Remove collisions between racers
  * Remove AI racers from custom games
  * Allow players to select the same character
@@ -18,7 +18,7 @@ A mod for Sonic & All-Stars Racing Transformed
  5. Please carefully read the additional information in the message
 
 ## To uninstall
- A. Run "CloNoBump Supercharged.exe" again and choose to disable CloNoBump
- B. Alternatively, close and re-open Sonic & All-Stars Racing Transformed
+ * Run "CloNoBump Supercharged.exe" again, and choose to disable CloNoBump
+ * Alternatively, close and re-open Sonic & All-Stars Racing Transformed
  
 ### I hope you enjoy the mod! :)
