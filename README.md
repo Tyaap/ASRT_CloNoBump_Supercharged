@@ -12,14 +12,15 @@ A mod for Sonic & All-Stars Racing Transformed.
  * Works in offline and online modes (custom games only)
 
 ## How to install
- 1. Open the zip file and extract the CloNoBump Supercharged folder (does not matter where)
- 2. Start Sonic & All-Stars Racing Transformed
- 3. Run "CloNoBump Supercharged.exe"
- 4. A message should appear saying CloNoBump Supercharged is enabled
- 5. Please carefully read the additional information in the message
+ 1. Download `CloNoBump_Supercharged.zip` from the [latest release](https://github.com/Tyaap/ASRT_CloNoBump_Supercharged/releases)
+ 2. Open the zip file and extract the CloNoBump Supercharged folder (does not matter where)
+ 3. Start Sonic & All-Stars Racing Transformed
+ 4. Run `CloNoBump Supercharged.exe`
+ 5. A message should appear saying CloNoBump Supercharged is enabled
+ 6. Please carefully read the additional information in the message
 
 ## How to uninstall
- * Run "CloNoBump Supercharged.exe" again, and choose to disable CloNoBump
+ * Run `CloNoBump Supercharged.exe` again, and choose to disable CloNoBump
  * Alternatively, close and re-open Sonic & All-Stars Racing Transformed
  
 ### I hope you enjoy the mod! :)
