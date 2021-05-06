@@ -10,6 +10,7 @@ A mod for Sonic & All-Stars Racing Transformed.
  * Make all vehicles (except your own) invisible for a few seconds after race start
  * Change the speed/boost/acceleration/handling stats for all characters
  * Works in offline and online modes (custom games only)
+ * Fully configurable, by editing `settings.xml`
 
 ## How to install
  1. Download `CloNoBump_Supercharged.zip` from the [latest release](https://github.com/Tyaap/ASRT_CloNoBump_Supercharged/releases)
