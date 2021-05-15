@@ -8,6 +8,7 @@ A mod for Sonic & All-Stars Racing Transformed.
  * Change the number of seconds before getting DNF in a race
  * Make all players start the race in the same position
  * Make all vehicles (except your own) invisible for a few seconds after race start
+ * Allow local custom games without needing extra players (boost/battle single races!)
  * Change the speed/boost/acceleration/handling stats for all characters
  * Works in offline and online modes (custom games only)
  * Fully configurable, by editing `settings.xml`
