@@ -22,7 +22,7 @@ Supercharge your Sonic & All-Stars Racing Transformed!
  6. Please carefully read the additional information in the message
 
 ## How to uninstall
- * Run `CloNoBump Supercharged.exe` again, and choose to disable CloNoBump
+ * Run `CloNoBump Supercharged.exe` again, and choose to disable CloNoBump Supercharged
  * Alternatively, close and re-open Sonic & All-Stars Racing Transformed
  
 ### I hope you enjoy the mod! :)
