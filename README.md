@@ -1,4 +1,4 @@
-## Supercharge your Sonic & All-Stars Racing Transformed!
+# Supercharge your Sonic & All-Stars Racing Transformed!
 ![Header](CloNoBump.png "Header")
 
 ## CloNoBump Supercharged can do much more!
