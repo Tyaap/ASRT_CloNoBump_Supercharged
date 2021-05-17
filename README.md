@@ -1,7 +1,7 @@
 # Supercharge your Sonic & All-Stars Racing Transformed!
 ![Header](CloNoBump.png "Header")
 
-## CloNoBump Supercharged can do much more!
+## CloNoBump Supercharged can do more!
  * Change the number of seconds before getting DNF in a race
  * Make all players start the race in the same position
  * Make all vehicles (except your own) invisible for a few seconds after race start
