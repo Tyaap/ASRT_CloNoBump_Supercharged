@@ -1,17 +1,15 @@
-# CloNoBump Supercharged
-Supercharge your Sonic & All-Stars Racing Transformed!
+## Supercharge your Sonic & All-Stars Racing Transformed!
+![Header](CloNoBump.png "Header")
 
-## What can CloNoBump Supercharged do?
- * Remove collisions between racers
- * Remove AI racers from custom games
- * Allow players to select the same character
+## CloNoBump Supercharged can do much more!
  * Change the number of seconds before getting DNF in a race
  * Make all players start the race in the same position
  * Make all vehicles (except your own) invisible for a few seconds after race start
  * Allow local custom games without needing extra players (boost/battle single races!)
- * Change the speed/boost/acceleration/handling stats for all characters
- * Works in offline and online modes (custom games only)
- * Fully configurable, by editing `settings.xml`
+ * Change the speed/boost/acceleration/handling stats for each character
+ * Works in offline mode and custom games
+ * Fully configurable by editing `settings.xml`. Changes are applied automatically the moment you save the file.
+ * Lobby host has easy control of the settings. `settings.xml` is distributed automatically to lobby members.
 
 ## How to install
  1. Download `CloNoBump_Supercharged.zip` from the [latest release](https://github.com/Tyaap/ASRT_CloNoBump_Supercharged/releases)
