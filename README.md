@@ -5,7 +5,7 @@
  * Change the number of seconds before getting DNF in a race
  * Make all players start the race in the same position
  * Make all vehicles (except your own) invisible for a few seconds after race start
- * Allow local custom games without needing extra players (boost/battle single races!)
+ * Allow local custom games without needing extra players (for boost/battle single races!)
  * Change the speed/boost/acceleration/handling stats for each character
  * Works in offline mode and custom games
  * Fully configurable by editing `settings.xml`. Changes are applied automatically the moment you save the file.
